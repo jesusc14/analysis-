@@ -1,0 +1,7 @@
+{
+  "agency": {
+    "agency_key": "KCM",
+    "gtfs_static_path": "C:/Users/jcele/Desktop/gtfs/google_transit.zip",
+    "gtfs_rt_tripupdates_url": "https://s3.amazonaws.com/kcm-alerts-realtime-prod/tripupdates.pb"
+  }
+}
