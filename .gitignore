@@ -1,2 +1,13 @@
 
 *.csv
+*.zip
+google_transit (2)/google_transit/agency.txt
+google_transit (2)/google_transit/calendar.txt
+google_transit (2)/google_transit/calendar_dates.txt
+google_transit (2)/google_transit/fare_attributes.txt
+google_transit (2)/google_transit/fare_rules.txt
+google_transit (2)/google_transit/routes.txt
+google_transit (2)/google_transit/shapes.txt
+google_transit (2)/google_transit/stop_times.txt
+google_transit (2)/google_transit/stops.txt
+google_transit (2)/google_transit/trips.txt
